@@ -16,13 +16,13 @@ import utils.X;
 /**
  * Servlet implementation class ProxyService
  */
-public class ProxyService extends HttpServlet {
+public class JsonDataService extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public ProxyService() {
+    public JsonDataService() {
         super();
     }
 
